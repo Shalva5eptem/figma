@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title {
+    margin-top: 20px;
+}
+.container {
+    max-width: 1200px;
+    min-height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    margin-left: 100px;
+}
+.logo {
+    margin-top: 40px;
+}
+.text {
+    margin-top: 20px;
+    width: 756px;
+    height: 115px;
+}
+.button1, .button2, .button3 {
+    background-color: #00AB89;
+    color: white;
+    border: solid 1px #00AB89;
+    border-radius: 8px;
+    width: 164px;
+    height: 28px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.button2 {
+    margin-left: 150px;
+}
+
+.button3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.image {
+width: 308px;
+height: 376px;
+margin-top: 38px;
+margin-left: 100px;
+}
+.child {
+width: 756;
+height: 435;
+}
+.image-container {
+    display: flex;
+    flex-direction: column;
+}
+.traktori {
+    width: 388px;
+    height: 278px;
+    margin-left: 60px;
+}
+.tele {
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+        font-family: BPG Nino Mtavruli;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 28px;
+        color: #00AB89;
+}
+.corn {
+    margin-left: 60px;
+    width: 388px;
+    height: 382px;
+}
+.farming {
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+    width: 1235px;
+    height: 382px;
+    margin-bottom: 50px;
+}
+.description {
+    margin-left: 60px;
+}
+.feri{
+    color:#00AB89
+}
+.title2 {
+    margin-bottom: 20px;
+}
